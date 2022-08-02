@@ -1,17 +1,17 @@
 {
-  "name": "@antfu/ni",
+  "name": "@fyzhu/ni",
   "version": "0.17.2",
   "packageManager": "pnpm@7.4.0",
   "description": "Use the right package manager",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/antfu/ni#readme",
+  "homepage": "https://github.com/fyzhu/ni#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/ni.git"
+    "url": "git+https://github.com/fyzhu/ni.git"
   },
   "bugs": {
-    "url": "https://github.com/antfu/ni/issues"
+    "url": "https://github.com/fyzhu/ni/issues"
   },
   "exports": {
     ".": {
