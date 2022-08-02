@@ -28,6 +28,7 @@
     "nr": "bin/nr.mjs",
     "nu": "bin/nu.mjs",
     "nx": "bin/nx.mjs",
+    "nv": "bin/nv.mjs",
     "nw": "bin/nw.mjs",
     "na": "bin/na.mjs",
     "nci": "bin/nci.mjs",

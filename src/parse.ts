@@ -85,3 +85,6 @@ export const parseNa = <Runner>((agent, args) => {
 export const parseNw = <Runner>((agent, args) => {
   return getCommand(agent, 'why', args)
 })
+export const parseNv = <Runner>((agent, args) => {
+  return getCommand(agent, 'view', args)
+})
