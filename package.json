@@ -23,12 +23,14 @@
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "bin": {
+    "i": "bin/ni.mjs",
     "ni": "bin/ni.mjs",
-    "nci": "bin/nci.mjs",
     "nr": "bin/nr.mjs",
     "nu": "bin/nu.mjs",
     "nx": "bin/nx.mjs",
+    "nw": "bin/nw.mjs",
     "na": "bin/na.mjs",
+    "nci": "bin/nci.mjs",
     "nun": "bin/nun.mjs"
   },
   "files": [

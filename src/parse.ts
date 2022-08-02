@@ -82,3 +82,6 @@ export const parseNx = <Runner>((agent, args) => {
 export const parseNa = <Runner>((agent, args) => {
   return getCommand(agent, 'agent', args)
 })
+export const parseNw = <Runner>((agent, args) => {
+  return getCommand(agent, 'why', args)
+})
